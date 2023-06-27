@@ -1,0 +1,622 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {background-image:linear-gradient(#171717, #020201)}
+          header {
+            width: 90%;
+            height: 150px;
+            background-color: lightblue;
+            margin: auto;
+            box-sizing: border-box;
+                                    }
+        main{
+            width: 90%;
+            height:1600px;
+            margin: auto;
+            box-sizing: border-box;
+            padding-top:100px;
+                                    }
+        footer{
+            width: 90%; 
+            height: 194px;
+            background-color: transparent;
+            margin:auto; 
+            box-sizing: border-box;
+                                    }
+
+
+.col1 {
+ width: 8.33%;
+ height: 150px;
+ float: left;
+ box-sizing: border-box;
+ background-color:#050505 ;
+}
+
+.col2 {
+ width: 16.66%;
+ background-color:#050505 ;
+ height: 150px;
+ float: left;
+ box-sizing: border-box;
+}
+
+.col3 {
+ width: 25%;
+ background-color:#050505;
+ height: 150px;
+ float: left;
+ box-sizing: border-box;
+}
+
+.col4 {
+ width: 33.33%;
+ height: 200px;
+ box-sizing: border-box;
+ float: left;
+ background-color: #050505;
+}
+
+.col5 {
+ width: 41.66%;
+ float: left;
+ height: 200px;
+ box-sizing: border-box;
+ background-color: #050505;
+}
+
+.col6 {
+ width: 50%;
+ float: left;
+ height: 200px;
+ box-sizing: border-box;
+ background-color: #050505;
+}
+
+.col7 {
+ width: 58.33%;
+ background-color: #050505;
+ height: 150px;
+ float: left;
+ box-sizing: border-box;
+}
+
+.col8 {
+ width: 66.66%;
+ box-sizing: border-box;
+ float: left;
+ height: 150px;
+ background-color: #050505;
+}
+
+.col9 {
+ width: 75%;
+ float: left;
+ height: 150px;
+ box-sizing: border-box;
+ background-color: #050505;
+}
+
+.col10 {
+ width: 83.33%;
+ float: left;
+ height: 200px;
+ float: left;
+ box-sizing: border-box;
+ background-color: #050505;
+}
+
+.col11 {
+ width: 91.66%;
+ float: left;
+ height: 200px;
+ box-sizing: border-box;
+ background-color: #050505;
+}
+
+.col12 {
+ width: 100%;
+ float: left;
+ height: 150px;
+ box-sizing: border-box;
+ background-color:#050505;
+}
+
+.col6main {
+ width: 50%;
+ float: left;
+ height: 1000px;
+ box-sizing: border-box;
+ background-color:transparent;
+}
+.col1footer {
+ width: 8.33%;
+ height: 150px;
+ float: left;
+ box-sizing: border-box;
+ background-color:transparent;
+}
+        
+.col11main {
+ width: 91.66%;
+ float: left;
+ height: 150px;
+ box-sizing: border-box;
+ background-color:transparent;
+
+}
+.col3footer {
+ width: 25%;
+ height: 150px;
+ float: left;
+ box-sizing: border-box;
+ background-color: transparent;
+}
+    .col2main {
+ width: 16.66%;
+ float: left;
+ height: 1000px;
+ box-sizing: border-box;
+ background-color:transparent;
+}
+
+.col5main {
+ width: 41.66%;
+ float: left;
+ height: 1000px;
+ box-sizing: border-box;
+ background-color:transparent;
+}
+
+.col1main {
+ width: 8.33%;
+ height: 150px;
+ float: left;
+ box-sizing: border-box;
+ background-color:transparent
+}
+   .col9main {
+    width: 75%;
+    float: left;
+    height: 150px;
+    box-sizing: border-box;
+    background-color: transparent;
+   }
+    
+   .col6main2 {
+    width: 50%;
+    float: left;
+    height: 150px;
+    box-sizing: border-box;
+    background-color:transparent;
+   }
+   .col10main {
+    width: 83.33%;
+    float: left;
+    height: 150px;
+    float: left;
+    box-sizing: border-box;
+    background-color: transparent;
+   }
+
+.icon{
+    width: 200px;
+    height: 200px;
+    padding-top: 15px;
+    padding-left: 150px;
+    margin: auto;
+    
+}
+ul{
+        margin-left: 15%;
+        margin-bottom:50%;
+        margin-top: 50px;
+        box-sizing: border-box;
+        padding: auto;
+}
+li {
+        display: inline;
+        padding: auto;
+        box-sizing: border-box;
+        margin:auto;
+
+}
+
+.textobotao {
+    font-size: 30px; 
+    color: white;
+    font-family:"Righteous"
+}
+
+#rcorners1 {
+  border-radius: 40px;
+  background: #232323;
+  padding-top: 10px; 
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-right: 80px;
+  width: 100px;
+  height: 150px; 
+}
+
+a {color:white; text-decoration-line: none}
+a:hover{color:#2c6e9b}
+
+.RubenSelf{
+    width: 950px;
+    height: auto;
+    margin-left: 90px;
+    margin-top: 50px;
+            }   
+.TextoApre{
+    color: white;
+    font-family: "roboto";
+    font-size: 35;
+    line-height: 50px;
+    padding-right: 250px;
+    padding-top: 300px;
+}
+.rectangle{
+    width: 300px;
+    height: 150px;
+    background-color: transparent;
+    margin-left: 15%;
+    border-color: #19425d;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 40px;
+    padding-bottom: 640px;
+    padding-right: 940px;
+    margin-top:-750px
+}
+.imagem2{
+    width: 400px;
+    height: auto;
+    padding-top: 650px;
+    padding-left: 115px;
+}
+
+.slider1{
+    width: 500px;
+    height: auto; 
+    margin-left: 40%;
+}
+
+
+.footer{ 
+width: 1700px;
+height: auto;
+box-sizing: border-box;
+padding-top: 20px;
+}
+
+.iconsocial1{
+    width: 90px;
+    height: auto;
+    padding-top: 75px; 
+}
+
+.iconsocial2{
+    width: 85px;
+    height: auto;
+    padding-top: 75px; 
+}
+
+.iconsocial3{
+    width: 90px;
+    height:auto;
+    padding-top: 75px; 
+}
+
+.iconsocial4{
+    width: 90px;
+    height:auto;
+    padding-top: 75px; 
+}
+
+.AboutTinta{
+    width: 400px;
+    height: auto;
+    box-sizing: border-box;
+    margin-left:150px;
+    padding-top: 30px;
+
+}
+
+.TextAboutMe{  
+    color: white;
+    font-family: "Roboto";
+    font-size:40;
+    line-height: 55px;
+    padding-left: 100px;
+    padding-right: 120px;
+    box-sizing: border-box;
+}
+
+.Skills{
+    width: 750px;
+    height: auto;
+    padding-top: 400px;
+    padding-left: 50px;
+    box-sizing: border-box;
+
+}
+
+.ContactsTinta{ 
+    width: 500px;
+    height: auto;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+.retratopixel{
+    width: 600px;
+    height: auto;
+    padding-top: 500px;
+    padding-left: 400px;
+}
+
+.contactos1{
+    color: white;
+    font-family: "Roboto";
+    padding-right: 100px;
+    font-size: 40px;
+    padding-top:450px;    
+}
+
+.contactos2{ 
+color:white;
+font-family: "Roboto";
+font-size: 40px;
+}
+
+
+.Portfolio{
+    font-family: "Righteous";
+    color:white;
+    font-size: 50px;
+    padding-left:570px;
+    padding-top: 80px;
+}
+
+.ilustracao{
+  width: 400px;
+  height: auto;
+  opacity: 1; 
+  margin-top: 300px;
+  margin-left: 50px;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+.animacao{
+    opacity: 1;
+    width: 400px;
+    height: auto;
+    margin-top: 300px;
+    margin-left: 360px;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+.extras{ 
+    opacity:1;
+    width: 400px;
+    height: auto;
+    margin-top: 300px;
+    margin-left: 810px;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+ 
+.ilustratext{
+    transition: .5s ease;
+    opacity: 0;
+    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-family:"Bebas Neue";
+    font-size: 70px;
+    padding-bottom: 600px;
+    padding-left: 200px; 
+}
+
+.animatext{
+    transition: .5s ease;
+    opacity: 0;
+    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-family:"Bebas Neue";
+    font-size: 70px;
+    padding-bottom: 600px;
+    margin-left: 410px; 
+}
+.extratext{
+    transition: .5s ease;
+    opacity: 0;
+    transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-family:"Bebas Neue";
+    font-size: 70px;
+    padding-bottom: 600px;
+    margin-left: 860px; 
+}
+
+.curriculo{
+    color: white;
+    font-size: 60px;
+    font-family: "Bebas Neue";
+    margin-top: 980px;
+    margin-left:740px;
+}
+.ilust{
+    font-family:"Righteous" ;
+    font-size: 80px;
+    color: white;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+
+.ilust1{
+    width: 551px; 
+    height: auto;
+    padding-top: 80px;
+}
+
+.ilust2{
+    width:510px;
+    height:auto;
+    padding-top:80px;
+    padding-left:430px; 
+}
+.ilust3{
+    width: 256px;
+    height: auto;
+    padding-top: 80px;
+    padding-left: 820px; 
+ }
+.ilust4{
+    padding-top: 80px;
+    width: 256px;
+    height: auto;
+    padding-left:955px ;
+}
+
+.ilust5{ 
+    width: 500px;
+    height: auto;
+    padding-top:360px;
+}
+
+.ilust6{
+    padding-top:360px;
+    width: 296px;
+    height: auto;
+    padding-left:-100px;
+    padding-left: 380px;
+}
+ .ilust7{ 
+    width: 420px;
+    height: auto;
+    padding-top:360px ;
+    padding-left: 560px;
+ }
+.ilust8{
+    padding-top:360px;
+    width: 350px;
+    height: auto;
+    padding-left: 860px;
+}
+
+.anim{
+    font-family:"Righteous" ;
+    font-size: 80px;
+    color: white;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+
+.nojudge{
+    padding-top:60px;
+     width:784px;
+     height: 441px;
+    }
+
+.quatorze{
+    padding-top:60px;
+    width:784px;
+    height: 441px;
+    padding-left: 55px;
+}
+
+.mimesis{
+    width:784px;
+    height: 441px;
+    padding-top: 450px;
+}
+
+.secondjan{ 
+    width:784px;
+    height: 441px;
+    padding-top: 450px;
+    padding-left:55px;
+}
+
+.Extra{ 
+    font-family:"Righteous" ;
+    font-size: 80px;
+    color: white;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+ .extra1{ 
+    width: 600px;
+    height: auto;
+    padding-top: 60px;
+ }
+ .extra2{ 
+    width: 540px;
+    height: auto;
+    padding-top: 60px;
+    padding-left: 470px;
+ }
+
+ .pixel{ 
+    width: 534px;
+    height: auto;
+    padding-top: 60px;
+    padding-left: 885px;
+ }
+ 
+ .extra3{
+    width: 536px;
+    height: auto;
+    padding-top: 450px;
+ }
+
+ .extra4{
+    width: 300px;
+    height: auto;
+    padding-top: 450px;
+    padding-left:410px;
+ }
+
+ .extra5{
+    width: 316px;
+    height: auto;
+    padding-top: 450px;
+    padding-left:585px;
+ }
+
+ .extra6{
+    width: 500px;
+    height: auto;
+    padding-top: 453px;
+    padding-left:775px;
+
+ }
+
+.col1main:hover .ilustracao {
+  opacity: 0.3;
+}
+.col1main:hover .animacao {
+  opacity: 0.3;
+}
+.col1main:hover .extras {
+  opacity: 0.3;
+}
+.col1main:hover .ilustratext {
+  opacity: 1;
+}
+.col1main:hover .animatext {
+  opacity: 1;
+}
+.col1main:hover .extratext {
+  opacity: 1;
+}
+
